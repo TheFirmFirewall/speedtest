@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/speedtest/static/css/main.e9453b13.css",
+    "main.js": "/speedtest/static/js/main.7c5ab50e.js",
+    "static/media/LandingImage1.png": "/speedtest/static/media/LandingImage1.df82e1c2087c5e22f489.png",
+    "index.html": "/speedtest/index.html",
+    "main.e9453b13.css.map": "/speedtest/static/css/main.e9453b13.css.map",
+    "main.7c5ab50e.js.map": "/speedtest/static/js/main.7c5ab50e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9453b13.css",
+    "static/js/main.7c5ab50e.js"
+  ]
+}
