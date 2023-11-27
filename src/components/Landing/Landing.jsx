@@ -1,6 +1,6 @@
 import React from "react";
 import './Landing.css';
-import LandingImg from '../../assets/LandingImage.png';
+import LandingImg from '../../assets/LandingImage1.png';
 import Typewriter from "typewriter-effect";
 
 const Landing = () => {

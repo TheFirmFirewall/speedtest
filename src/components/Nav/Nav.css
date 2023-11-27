@@ -1,6 +1,6 @@
 .nav-container {
     display: flex;
-    height: 72px;
+    height: 7vh;
     align-items: center;
     background: #1d2020;
     margin: 0;
@@ -15,26 +15,24 @@
 
 .nav-right {
     margin-right: 40px;
-    
 }
 
 .test-logo {
     margin-left: 20px;
-    height: 40px;
+    height: 35px;
 }
 
 .test-logo-text {
     font-family: 'Orbitron', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     letter-spacing: 1px;
     margin: 0 10px;
     color: #e7e6e7;
 }
 
-.nav-tff-link {
+.nav-github-link {
     font-size: 22px;
     color: #e7e6e7;
     font-weight: 600;
     text-decoration: none;
-    
 }
